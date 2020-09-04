@@ -1,4 +1,4 @@
-This project was something that i created for my wife who is teaching from home.
+This project was something that I created for my wife who is teaching from home.
 She didn't like that the attendance sheet didn't show the students names the same as
 they showed up on there zoom classroom.  This simply takes the list of students as a string
 separates them and swaps the order of the first and last name.
